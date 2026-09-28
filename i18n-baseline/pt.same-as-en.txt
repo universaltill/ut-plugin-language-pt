@@ -43,6 +43,8 @@ open_orders.col.total
 page.title.back_office
 page.title.menu
 page.title.plugins
+permissions.group.plugins
+permissions.unlocks_separator
 plugins.manage.title
 plugins.trust.official
 plugins.type.hardware
