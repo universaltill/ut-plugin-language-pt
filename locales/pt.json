@@ -858,6 +858,7 @@
   "inventory.low_stock": "Stock baixo",
   "inventory.manager_pin": "PIN do gerente",
   "inventory.manager_pin_placeholder": "se tiver sessão iniciada como operador",
+  "inventory.not_stocked_here": "Sem stock neste local",
   "inventory.order_hint": "encomendar ~",
   "inventory.order_hint_title": "Encomenda sugerida para manter duas semanas de stock ao ritmo de venda atual",
   "inventory.original_receipt": "N.º do talão original",
