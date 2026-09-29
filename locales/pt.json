@@ -2944,5 +2944,11 @@
   "settings.about.english_only": "Ainda não traduzido — mostrado em inglês.",
   "settings.about.no_notes": "Não há notas de versão disponíveis para esta versão.",
   "status.release_notes_updated": "Atualizado para %s — veja as novidades",
-  "status.release_notes_dismiss": "Dispensar"
+  "status.release_notes_dismiss": "Dispensar",
+  "settings.store_name.title": "Nome da loja",
+  "settings.store_name.help": "Impresso em todos os talões e apresentado nos relatórios.",
+  "settings.store_name.error_required": "Introduza o nome da sua loja. É impresso em todos os talões.",
+  "settings.store_name.error_too_long": "O nome da loja pode ter no máximo 80 caracteres.",
+  "settings.store_name.error_invalid_chars": "O nome da loja não pode conter quebras de linha, tabulações ou caracteres ocultos.",
+  "elevation.summary.store_name": "Mudar o nome da loja para \"%s\"."
 }
