@@ -2031,6 +2031,7 @@
   "settings.data.export.title": "Exportação / relatório",
   "settings.data.export.to_label": "Até",
   "settings.data.gdpr_help": "Elimine os dados pessoais de um cliente a pedido. As vendas dele são mantidas para os seus registos, mas deixam de mostrar a quem pertenciam.",
+  "settings.data.gdpr_invoices_kept": "As faturas já emitidas mantêm o nome, a morada e o NIF do comprador tal como foram emitidas, porque a lei fiscal exige que as conserve.",
   "settings.data.gdpr_title": "Apagar um cliente (RGPD)",
   "settings.data.help": "Limpe as vendas de treino feitas durante os testes para poder começar a vender a sério do zero. Os seus produtos, utilizadores e definições são mantidos.",
   "settings.data.reset_btn": "Limpar histórico de transações",
