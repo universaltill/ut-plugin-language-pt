@@ -1929,6 +1929,8 @@
   "selforder.table_busy.hint": "Outra pessoa nesta mesa já está a usar o seu próprio telemóvel neste momento. Aguarde alguns minutos e tente novamente, ou peça ajuda a um funcionário.",
   "selforder.table_busy.retry": "Tentar novamente",
   "selforder.table_busy.title": "Esta mesa já está em uso",
+  "selforder.till_busy.hint": "A caixa está a processar muitos pedidos neste momento. Aguarde um minuto e tente novamente, ou peça ajuda a um funcionário.",
+  "selforder.till_busy.title": "Não é possível iniciar um novo pedido neste momento",
   "selforder.tap_to_start": "Toque para começar",
   "selforder.title": "Peça aqui",
   "selforder.welcome": "Bem-vindo!",
