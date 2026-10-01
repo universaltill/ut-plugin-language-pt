@@ -1290,6 +1290,7 @@
   "permissions.action.void_comp_waste": "Anular/oferta/desperdício (remoção de linhas do cesto)",
   "permissions.action.worker_allocation": "Pagamento de gorjetas/taxas de serviço aos funcionários",
   "permissions.col.action": "Ação",
+  "permissions.error.cloud_role": "Esta função é gerida em my.universaltill.com. Altere-a lá.",
   "permissions.error.super_admin_required": "É necessário um superadministrador",
   "permissions.intro": "Só um superadministrador pode conceder ou revogar o que cada função pode fazer. Todas as alterações ficam registadas no registo de auditoria.",
   "permissions.lockout_error": "Não é possível revogar — isso bloquearia o acesso de todos os superadministradores a esta página.",
