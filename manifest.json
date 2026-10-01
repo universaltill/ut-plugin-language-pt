@@ -1,7 +1,7 @@
 {
   "id": "com.universaltill.language-pt",
   "name": "Portuguese (Português)",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "European Portuguese (pt-PT) language pack for Universal Till — full coverage of the till interface; any future untranslated strings fall back to English.",
   "author": "Universal Till",
   "website": "https://universaltill.com",
