@@ -1306,6 +1306,7 @@
   "permissions.action.void": "Anulações",
   "permissions.action.void_comp_waste": "Anular/oferta/desperdício (remoção de linhas do cesto)",
   "permissions.action.worker_allocation": "Pagamento de gorjetas/taxas de serviço aos funcionários",
+  "permissions.cloud_role_managed": "Gerido em my.universaltill.com",
   "permissions.col.action": "Ação",
   "permissions.error.cloud_role": "Esta função é gerida em my.universaltill.com. Altere-a lá.",
   "permissions.error.super_admin_required": "É necessário um superadministrador",
