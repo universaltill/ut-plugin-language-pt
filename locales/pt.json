@@ -2764,6 +2764,7 @@
   "tills.tls.pinned": "TLS fixado",
   "tills.tls.not_pinned": "TLS não fixado",
   "tills.link_help": "A ligação, a versão e a fila atualizam-se automaticamente a cada 10 segundos.",
+  "tills.discovery.denied": "O Universal Till não pode usar a rede local neste dispositivo. Se acabou de lhe ser pedido, permita-o e procure novamente; caso contrário, ative “Rede local” para o Universal Till nas Definições do dispositivo, ou introduza antes um código de emparelhamento.",
   "tills.discovery.error": "Não foi possível procurar caixas principais nesta rede.",
   "tills.discovery.find_button": "Procurar uma caixa principal nesta rede",
   "tills.discovery.help": "Procura nesta rede uma caixa principal que já se esteja a anunciar — não é preciso escrever um código de emparelhamento à mão.",
