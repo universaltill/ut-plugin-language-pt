@@ -2329,7 +2329,6 @@
   "settings.retention.help": "Escolha onde e durante quanto tempo é guardado o arquivo de relatórios de fecho do dia. Os relatórios são sempre guardados durante pelo menos 10 anos.",
   "settings.retention.mode_both": "Caixa + cloud",
   "settings.retention.mode_cloud": "Só cloud",
-  "settings.retention.mode_coming_soon": "brevemente",
   "settings.retention.mode_label": "Guardar relatórios em",
   "settings.retention.mode_till": "Só nesta caixa",
   "settings.retention.title": "Conservação de relatórios",
@@ -3071,5 +3070,13 @@
   "selforder.checkout.fiscal_cannot_sign": "Lamentamos, este pedido não pode ser concluído neste momento. Dirija-se ao balcão.",
   "taxcodes.err.rate_not_de_fiscal": "As taxas de imposto de uma loja alemã têm de ser 19%, 7%, 10,7%, 5,5% ou 0% — as taxas que o serviço de assinatura fiscal da Alemanha reconhece.",
   "bluetoothdevices.ios_system_pairing": "No iPhone e no iPad, emparelhe um leitor de códigos de barras ou um teclado na app Definições → Bluetooth. Depois de emparelhado, escreve na caixa como um teclado — não há mais nada a configurar aqui.",
-  "bluetoothdevices.ios_no_printers": "As impressoras de talões Bluetooth e as balanças Bluetooth não podem ser usadas a partir de um iPhone ou iPad. Use antes uma impressora de talões de rede (Wi-Fi ou Ethernet)."
+  "bluetoothdevices.ios_no_printers": "As impressoras de talões Bluetooth e as balanças Bluetooth não podem ser usadas a partir de um iPhone ou iPad. Use antes uma impressora de talões de rede (Wi-Fi ou Ethernet).",
+  "settings.retention.err_invalid_mode": "Escolha onde guardar os relatórios: só nesta caixa, só na cloud ou caixa + cloud.",
+  "settings.retention.err_needs_subscription": "Guardar os relatórios na cloud requer uma subscrição ativa que inclua a cópia de segurança na cloud. Os relatórios ficam nesta caixa.",
+  "settings.retention.err_use_retention_card": "Altere onde os relatórios são guardados no cartão «Conservação de relatórios».",
+  "settings.retention.mode_needs_subscription": "requer uma subscrição ativa",
+  "settings.retention.pending_uploads": "Relatórios a aguardar envio para a cloud: %d",
+  "settings.retention.upload_refused": "Envio para a cloud recusado — a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
+  "status.report_archive.hint": "A cloud recusou o envio dos relatórios porque a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
+  "status.report_archive.refused": "Envio de relatórios recusado"
 }
