@@ -3084,5 +3084,14 @@
   "settings.retention.pending_uploads": "Relatórios a aguardar envio para a cloud: %d",
   "settings.retention.upload_refused": "Envio para a cloud recusado — a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
   "status.report_archive.hint": "A cloud recusou o envio dos relatórios porque a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
-  "status.report_archive.refused": "Envio de relatórios recusado"
+  "status.report_archive.refused": "Envio de relatórios recusado",
+  "elevation.summary.cancel_order": "Cancelar o pedido %s. É removido dos pedidos abertos e esta ação não pode ser anulada.",
+  "hold.toast.reparked": "Pedido %s suspenso de novo — pode atender o próximo cliente",
+  "open_orders.cancel.action": "Cancelar pedido",
+  "open_orders.cancel.action_named": "Cancelar pedido — %s",
+  "open_orders.cancel.confirm_named": "Cancelar o pedido %s? É removido dos pedidos abertos e esta ação não pode ser anulada.",
+  "open_orders.cancel.done": "Pedido cancelado",
+  "open_orders.cancel.error.live": "Esse pedido está aberto agora no ecrã de venda. Termine-o aí, ou toque em Nova venda para o suspender primeiro.",
+  "open_orders.cancel.error.main_till_unreachable": "Caixa principal inacessível — este pedido continua aberto lá. Cancele-o quando a caixa principal voltar, ou cancele-o na caixa principal.",
+  "open_orders.col.actions": "Ações"
 }
