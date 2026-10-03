@@ -1698,6 +1698,7 @@
   "refund.col.refund_qty": "Qtd. a reembolsar",
   "refund.col.remaining": "Reembolsável",
   "refund.col.sold": "Vendido",
+  "refund.error.fiscal_cannot_sign": "Reembolso não concluído: o serviço de assinatura fiscal não consegue assinar este reembolso tal como está, pelo que nada foi reembolsado. Verifique a taxa de imposto ou o desconto da venda original, ou contacte um administrador.",
   "refund.error.fiscal_device_no_receipt": "O dispositivo fiscal não confirmou um talão para este reembolso — verifique o dispositivo antes de tentar novamente",
   "refund.error.fiscal_never_configured": "Reembolso não concluído: esta loja está configurada para registar vendas reais como sistema de registo legal do seu país, mas não está configurado nenhum dispositivo de assinatura fiscal, pelo que a caixa não registará este reembolso. Configure o dispositivo de assinatura fiscal exigido no seu país — o seu próprio hardware, a sua própria conta cloud ou uma subscrição gerida, quando disponível — ou peça a um administrador que retire a loja do modo de vendas reais até estar pronto.",
   "refund.error.fiscal_tse_failing": "Reembolso não concluído: o dispositivo de assinatura fiscal da loja está atualmente assinalado como avariado, pelo que a caixa não registará este reembolso. Um proprietário (administrador) pode conceder uma exceção temporária e com prazo limitado, ou tente novamente quando o dispositivo estiver a funcionar.",
