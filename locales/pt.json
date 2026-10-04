@@ -3093,5 +3093,9 @@
   "open_orders.cancel.done": "Pedido cancelado",
   "open_orders.cancel.error.live": "Esse pedido está aberto agora no ecrã de venda. Termine-o aí, ou toque em Nova venda para o suspender primeiro.",
   "open_orders.cancel.error.main_till_unreachable": "Caixa principal inacessível — este pedido continua aberto lá. Cancele-o quando a caixa principal voltar, ou cancele-o na caixa principal.",
-  "open_orders.col.actions": "Ações"
+  "open_orders.col.actions": "Ações",
+  "settings.enrol.check_plan_btn": "Verificar se existe um plano pago",
+  "settings.enrol.check_plan_sent": "A verificar com a nuvem. Se esta loja tiver um plano pago, a sincronização com a nuvem começa dentro de um minuto.",
+  "settings.enrol.cloud_sync_off": "A sincronização com a nuvem está desligada. Faz parte dos planos pagos — assim que esta loja tiver um, a caixa sincroniza-se automaticamente com a sua conta online.",
+  "elevation.summary.enrol_check_plan": "Perguntar agora à nuvem se esta loja tem um plano pago."
 }
