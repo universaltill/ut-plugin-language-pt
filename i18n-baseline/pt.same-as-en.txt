@@ -70,4 +70,6 @@ sync.chip_till_offline_one
 sync.chip_till_offline_other
 tables.qr.button
 tables.status.open_minutes
+tour.counter
+tour.nav.title
 users.col.pin
