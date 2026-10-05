@@ -3110,7 +3110,7 @@
   "subscription.status.active": "Ativa",
   "subscription.status.lapsed": "Terminada",
   "subscription.status.none": "Sem subscrição",
-  "subscription.renews": "Renova-se a %s",
+  "subscription.renews": "Paga até %s",
   "subscription.last_confirmed": "Última confirmação: %s",
   "subscription.free_note": "Está no plano gratuito Local. Vender, emitir talões e ver relatórios nesta caixa é gratuito em todos os planos.",
   "subscription.chip.stale": "Subscrição não confirmada",
