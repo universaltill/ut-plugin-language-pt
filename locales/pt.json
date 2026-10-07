@@ -2521,6 +2521,8 @@
   "shifts.skim_manager_pin_hint": "Retirar numerário para o cofre exige aprovação do gerente, tal como qualquer outra saída de numerário.",
   "shifts.title": "Turnos",
   "shifts.variance": "Diferença",
+  "shop_name_notice.cta": "Ir para Definições",
+  "shop_name_notice.title": "Dê um nome à sua loja: os recibos ainda mostram um nome provisório.",
   "shrinkage.error.invalid_reason": "Escolha um motivo: anular, oferta ou desperdício.",
   "shrinkage.prompt": "Porque está esta linha a ser removida?",
   "shrinkage.reason.comp": "Oferta",
