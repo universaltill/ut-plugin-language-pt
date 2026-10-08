@@ -1356,6 +1356,7 @@
   "plugin.job.gone": "Esta tarefa já não está disponível — pode ter terminado enquanto estava ausente. Inicie-a novamente se ainda precisar dela.",
   "plugin.job.refresh": "Ver progresso",
   "plugin.job.running": "A trabalhar…",
+  "plugin.view.action_failed": "Não foi possível concluir. Os dados que introduziu continuam aqui — tente novamente daqui a pouco.",
   "plugin.view.unavailable": "Não é possível mostrar esta página do plugin neste momento. Tente novamente daqui a pouco — o resto da caixa continua a funcionar.",
   "plugins.buttons.title": "Ações do plugin",
   "plugins.current_version": "Versão atual:",
