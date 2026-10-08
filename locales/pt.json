@@ -1352,6 +1352,7 @@
   "plugin.content.fallback_notice": "Este conteúdo ainda não está disponível no seu idioma — a mostrar o que existe até agora.",
   "plugin.content.meta": "Conteúdo v%s · atualizado %s",
   "plugin.content.search_placeholder": "Pesquisar…",
+  "plugin.view.unavailable": "Não é possível mostrar esta página do plugin neste momento. Tente novamente daqui a pouco — o resto da caixa continua a funcionar.",
   "plugins.buttons.title": "Ações do plugin",
   "plugins.current_version": "Versão atual:",
   "plugins.error.grant_failed": "Não foi possível conceder a permissão.",
