@@ -3087,6 +3087,8 @@
   "settings.retention.mode_needs_subscription": "requer uma subscrição ativa",
   "settings.retention.pending_uploads": "Relatórios a aguardar envio para a cloud: %d",
   "settings.retention.upload_refused": "Envio para a cloud recusado — a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
+  "status.disk_low.hint": "O disco desta caixa está quase cheio. As cópias de segurança antigas e os ficheiros que sobraram já foram apagados. Liberte espaço no dispositivo ou fale com quem o instalou. As vendas continuam.",
+  "status.disk_low.label": "Armazenamento quase cheio",
   "status.report_archive.hint": "A cloud recusou o envio dos relatórios porque a subscrição não está ativa. Os relatórios ficam nesta caixa e são enviados quando voltar a estar ativa.",
   "status.report_archive.refused": "Envio de relatórios recusado",
   "elevation.summary.cancel_order": "Cancelar o pedido %s. É removido dos pedidos abertos e esta ação não pode ser anulada.",
