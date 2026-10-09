@@ -1976,6 +1976,7 @@
   "settings.backup.col_file": "Ficheiro",
   "settings.backup.col_size": "Tamanho",
   "settings.backup.done": "Cópia de segurança criada",
+  "settings.backup.done_no_photos": "Cópia de segurança criada, mas não foi possível adicionar as fotos — tente novamente",
   "settings.backup.download": "Guardar em Transferências",
   "settings.backup.download_failed": "Não foi possível transferir a cópia de segurança.",
   "settings.backup.failed": "A cópia de segurança falhou",
