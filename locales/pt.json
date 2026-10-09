@@ -2206,6 +2206,7 @@
   "settings.enrol.registered": "Esta caixa está registada no marketplace da Universal Till.",
   "settings.enrol.registered_via_main": "Esta caixa está registada através da caixa principal.",
   "settings.enrol.retry": "Registar agora",
+  "settings.enrol.service_unavailable": "A nuvem da Universal Till não está disponível para esta loja. A caixa continua a funcionar offline.",
   "settings.enrol.store": "ID da loja",
   "settings.enrol.title": "Registo da caixa",
   "settings.error.change_on_main_till": "Altere esta definição na caixa principal.",
