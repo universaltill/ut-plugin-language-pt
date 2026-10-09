@@ -2156,6 +2156,7 @@
   "settings.display.large": "ecrãs grandes",
   "settings.display.launch_on_startup_label": "Iniciar no arranque",
   "settings.display.launch_on_startup_pending_note": "Entra em vigor quando o suporte de arranque automático desta plataforma for disponibilizado.",
+  "settings.display.err_invalid_mode": "Escolha um perfil do dispositivo: Caixa, Back office ou Quiosque de autopedido.",
   "settings.display.mode": "Perfil do dispositivo",
   "settings.display.mode_backoffice": "Back office (posto do gerente)",
   "settings.display.mode_register": "Caixa (ecrã de venda)",
