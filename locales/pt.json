@@ -2395,6 +2395,7 @@
   "settings.update.auto_enable": "Atualizar automaticamente",
   "settings.update.follows_main": "Esta caixa segue a versão da caixa principal (%s). Altere as atualizações automáticas na caixa principal.",
   "settings.update.follows_main_unknown": "Esta caixa segue a versão da caixa principal. Altere as atualizações automáticas na caixa principal.",
+  "settings.update.follows_main_off": "As atualizações automáticas estão desativadas na caixa principal, por isso esta caixa não se atualiza sozinha. Ative-as na caixa principal para que esta caixa volte a segui-la.",
   "settings.update.check_btn": "Procurar atualizações",
   "settings.update.check_failed": "Não foi possível contactar o servidor de atualizações — tente mais tarde",
   "settings.update.download": "Transferir",
