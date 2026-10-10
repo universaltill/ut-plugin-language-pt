@@ -2393,6 +2393,8 @@
   "settings.update.apply_confirm": "Transferir e instalar a atualização agora? A caixa reinicia quando terminar.",
   "settings.update.auto_blocked": "As atualizações automáticas estão ativadas, mas esta caixa não as consegue instalar sozinha: a caixa não tem permissão de escrita na pasta de instalação. Se foi instalada a partir do pacote .deb, reinstale o pacote mais recente — isso corrige a pasta; caso contrário, dê ao utilizador da caixa permissão de escrita nessa pasta. Depois, volte a procurar atualizações.",
   "settings.update.auto_enable": "Atualizar automaticamente",
+  "settings.update.follows_main": "Esta caixa segue a versão da caixa principal (%s). Altere as atualizações automáticas na caixa principal.",
+  "settings.update.follows_main_unknown": "Esta caixa segue a versão da caixa principal. Altere as atualizações automáticas na caixa principal.",
   "settings.update.check_btn": "Procurar atualizações",
   "settings.update.check_failed": "Não foi possível contactar o servidor de atualizações — tente mais tarde",
   "settings.update.download": "Transferir",
