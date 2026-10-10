@@ -1474,6 +1474,7 @@
   "plugins.permissions.desc.ui_slot": "Adicionar conteúdo num local específico dos ecrãs da caixa.",
   "plugins.permissions.desc.view": "Ler relatórios específicos da caixa que tenha aprovado (por exemplo, vendas por dia).",
   "plugins.permissions.desc.view_users": "Ler a sua lista de funcionários — nomes e se cada pessoa está ativa. Nunca PIN, nomes de utilizador ou funções.",
+  "plugins.permissions.desc.view_shop": "Ler o nome da sua loja, o nome desta caixa, a sua moeda e o idioma predefinido. Nunca vendas, funcionários ou clientes.",
   "plugins.permissions.setting_bound": "Liga-se apenas ao endereço guardado em:",
   "plugins.permissions.setting_bound_hint": "Alcança apenas o endereço atualmente guardado nestas definições, incluindo um na rede da loja. Se alterar a definição, a permissão acompanha-a.",
   "plugins.permissions.setting_bound_not_set": "não definido — a permissão não alcança nada",
