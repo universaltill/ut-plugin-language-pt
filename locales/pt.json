@@ -1479,6 +1479,7 @@
   "plugins.permissions.setting_bound_now": "Atualmente:",
   "plugins.retry": "Repetir instalação",
   "plugins.settings.ai.hosted_provider_notice": "Escolher um fornecedor alojado (provider = claude ou openai) envia aquilo com que as funcionalidades de IA trabalham para fora das suas instalações, para os servidores desse fornecedor (Anthropic ou OpenAI, ambos nos Estados Unidos): para Identificar pela câmara, a fotografia do produto mais os nomes dos artigos, os SKU e as fotografias de referência do seu catálogo, com qualquer um dos fornecedores. Para Pergunte à sua caixa: com claude, nada é enviado — ainda não existe uma implementação alojada, por isso a funcionalidade oculta-se; com openai, as suas perguntas são enviadas juntamente com os números de vendas e de stock usados para lhes responder. O modo autoalojado (Ollama, a predefinição) mantém tudo no seu próprio hardware. A chave que introduz é a sua própria conta junto desse fornecedor — paga-lhe diretamente e a Universal Till não tem qualquer conta lá.",
+  "plugins.settings.ai.image_model_unsupported": "Este modelo não é suportado para a remoção do fundo, por isso a remoção do fundo fica desativada. Utilize birefnet-general-lite ou u2netp.",
   "plugins.settings.invalid_endpoint": "%s tem de ser um endereço web que comece por http:// ou https:// (por exemplo, https://192.168.1.20:8080/api).",
   "plugins.settings.none": "Este plugin não tem definições.",
   "plugins.settings.per_till": "apenas esta caixa",
