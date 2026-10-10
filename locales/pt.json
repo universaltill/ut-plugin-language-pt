@@ -3192,5 +3192,8 @@
   "import.welcome.skip.body": "Adicione produtos um a um no catálogo, ou comece a vender e adicione-os mais tarde.",
   "import.welcome.skip.items": "Adicionar artigos manualmente",
   "import.welcome.skip.title": "Ignorar por agora",
-  "import.welcome.title": "A sua caixa está pronta — agora adicione os seus produtos"
+  "import.welcome.title": "A sua caixa está pronta — agora adicione os seus produtos",
+  "settings.enrol.claim_failed": "Não foi possível obter um código para reivindicar a loja — verifique a ligação à internet e tente novamente.",
+  "settings.enrol.not_configured": "Esta caixa não tem nenhum endereço da nuvem configurado, por isso não se pode registar. A caixa continua a funcionar sem ligação; peça a quem a instalou que configure um.",
+  "settings.enrol.busy": "Ainda está em curso outra tentativa de registo — aguarde um momento e tente novamente."
 }
