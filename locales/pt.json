@@ -1468,6 +1468,7 @@
   "plugins.permissions.desc.device_info": "Ler o ID do dispositivo, os endereços da rede local e o fuso horário desta caixa (por exemplo, para os cabeçalhos antifraude de uma autoridade tributária).",
   "plugins.permissions.desc.http_lan": "Ligar-se a dispositivos na rede local da sua loja (por exemplo, uma impressora de talões ou um leitor de cartões).",
   "plugins.permissions.desc.http_stream": "Enviar e receber grandes volumes de dados pela internet num fluxo contínuo.",
+  "plugins.permissions.desc.net_validation": "Transferir dados como listas de revogação de certificados e carimbos temporais apenas a partir deste endereço de internet, por HTTP não encriptado. Qualquer pessoa no caminho da rede pode ler ou alterar esta ligação; espera-se que o plugin verifique ele próprio as assinaturas dos dados.",
   "plugins.permissions.desc.schedule": "Executar-se em segundo plano segundo um calendário recorrente.",
   "plugins.permissions.desc.secret_write": "Guardar de forma segura uma credencial que já possui (por exemplo, a palavra-passe de um dispositivo).",
   "plugins.permissions.desc.ui_page": "Adicionar a sua própria página ou ecrã à caixa.",
