@@ -19,6 +19,7 @@ catalog.builtin_icon.cocktail
 catalog.builtin_icon.croissant
 catalog.builtin_icon.pizza
 catalog.col.sku
+catalog.image.original
 catalog.image_upload_error_prefix
 catalog.labels.unit.kg
 catalog.net_quantity.unit.g
