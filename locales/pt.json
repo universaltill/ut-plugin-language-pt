@@ -3251,5 +3251,6 @@
   "pos.gift_voucher.use": "Pode ser usado em",
   "pos.gift_voucher.use_any": "Qualquer compra",
   "pos.gift_voucher.use_specific": "Artigo específico (tributado agora)",
-  "pos.gift_voucher.value": "Valor"
+  "pos.gift_voucher.value": "Valor",
+  "tracking.awaiting_payment": "A aguardar pagamento ao balcão"
 }
