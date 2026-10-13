@@ -3252,5 +3252,7 @@
   "pos.gift_voucher.use_any": "Qualquer compra",
   "pos.gift_voucher.use_specific": "Artigo específico (tributado agora)",
   "pos.gift_voucher.value": "Valor",
-  "tracking.awaiting_payment": "A aguardar pagamento ao balcão"
+  "tracking.awaiting_payment": "A aguardar pagamento ao balcão",
+  "receipt.tracking.caption": "Leia o código para acompanhar o seu pedido",
+  "designer.receipt.show_tracking_qr": "QR de acompanhamento do pedido (planos pagos)"
 }
