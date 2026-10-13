@@ -3074,6 +3074,7 @@
   "vouchers_import.status.duplicate_code_in_file": "este código aparece mais do que uma vez no ficheiro — nenhuma das linhas foi importada",
   "vouchers_import.status.missing_code": "código em falta",
   "vouchers_import.status.non_positive_balance": "o saldo tem de ser superior a zero",
+  "vouchers_import.status.not_active": "já esgotado ou anulado — não há saldo para importar",
   "vouchers_import.status.single_purpose": "um vale para um artigo específico (já tributado na venda) — não pode ser importado como saldo",
   "vouchers_import.status.unknown_issue": "não foi possível importar",
   "vouchers_import.title": "Importar saldos de vales",
