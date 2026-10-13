@@ -1735,6 +1735,7 @@
   "receipt.tip": "Gorjeta",
   "receipt.title": "Talão",
   "receipt.vouchers.issued": "Vales emitidos",
+  "receipt.vouchers.void": "ANULADO - não válido",
   "recovery.db_open_failed": "A caixa não conseguiu abrir a base de dados. Os seus dados estão seguros — é necessário tentar novamente ou contactar o suporte.",
   "recovery.disk_full": "A caixa ficou sem espaço de armazenamento. Liberte espaço neste dispositivo e tente novamente.",
   "recovery.migration_failed": "A caixa não conseguiu concluir uma atualização da base de dados. Os seus dados estão seguros — é necessário tentar novamente ou contactar o suporte.",
