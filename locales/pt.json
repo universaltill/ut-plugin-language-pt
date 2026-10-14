@@ -1747,6 +1747,7 @@
   "recovery.safe_mode_col_total": "Total",
   "recovery.safe_mode_export": "Exportar como CSV",
   "recovery.safe_mode_sales_today": "Vendas de hoje",
+  "recovery.safe_mode_this_device_only": "O modo de segurança (uma vista só de leitura das vendas de hoje) só pode ser aberto na própria caixa.",
   "recovery.taking_longer": "Ainda a processar — isto pode demorar alguns minutos após uma atualização da base de dados.",
   "recovery.title": "Modo de recuperação",
   "recovery.unknown_error": "Não foi possível iniciar a caixa. Os seus dados estão seguros — é necessário tentar novamente ou contactar o suporte.",
