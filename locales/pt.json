@@ -3281,6 +3281,7 @@
   "pos.gift_voucher.use_specific": "Artigo específico (tributado agora)",
   "pos.gift_voucher.value": "Valor",
   "tracking.awaiting_payment": "A aguardar pagamento ao balcão",
+  "receipt.total_incl_vat": "Total com IVA",
   "receipt.tracking.caption": "Leia o código para acompanhar o seu pedido",
   "designer.receipt.show_tracking_qr": "QR de acompanhamento do pedido (planos pagos)",
   "designer.receipt.tracking_qr_needs_cloud": "Disponível quando o acompanhamento de pedidos passar para a nossa nuvem."
