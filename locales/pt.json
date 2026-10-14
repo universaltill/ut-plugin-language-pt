@@ -2171,6 +2171,7 @@
   "settings.diagnostics.stop_confirm_none": "Não há nada a aguardar carregamento. Desativar o modo de diagnóstico?",
   "settings.diagnostics.stopped": "O modo de diagnóstico está desativado. %d lotes por enviar (%d eventos) foram descartados.",
   "settings.diagnostics.title": "Modo de diagnóstico",
+  "settings.display.additional_kiosk_use_profile": "Esta caixa é uma caixa adicional. Para a tornar num quiosque de autopedido, use Definições → Perfil do dispositivo — pede confirmação primeiro e informa a caixa principal.",
   "settings.display.apply": "Aplicar",
   "settings.display.basket_panel_help": "No ecrã de venda, mantenha premido o divisor entre o cesto e os botões de produtos (ou clique e arraste-o com o rato) para aumentar qualquer um dos lados. Repor devolve a divisão predefinida.",
   "settings.display.basket_panel_reset_btn": "Repor divisor",
