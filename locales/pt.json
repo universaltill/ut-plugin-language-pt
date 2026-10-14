@@ -1400,6 +1400,7 @@
   "plugins.current_version": "Versão atual:",
   "plugins.error.grant_failed": "Não foi possível conceder a permissão.",
   "plugins.error.import_failed": "A importação falhou. Verifique se o ficheiro é um pacote de plugin válido e tente novamente.",
+  "plugins.error.import_no_key": "Esta caixa ainda não tem a chave de assinatura da Loja de plugins, por isso não consegue verificar plugins e não instala nenhum. Ligue a caixa à internet e tente novamente.",
   "plugins.error.import_unsigned": "Este pacote de plugin não está assinado e não pode ser instalado. Instale-o a partir da Loja de plugins ou use Exportar noutra caixa para criar um pacote que esta caixa possa importar.",
   "plugins.error.malformed_form": "Não foi possível ler o pedido. Tente novamente.",
   "plugins.error.revoke_failed": "Não foi possível revogar a permissão.",
