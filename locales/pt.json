@@ -532,6 +532,7 @@
   "common.loading": "A carregar…",
   "common.money.invalid": "Introduza o valor em algarismos, com um ponto ou uma vírgula antes das casas decimais (por exemplo 3.50 ou 3,50).",
   "common.money.invalid_whole": "Introduza o valor como número inteiro, apenas algarismos.",
+  "common.percent.invalid": "Introduza a percentagem em algarismos, com um ponto ou uma vírgula antes de no máximo duas casas decimais (por exemplo 7.5 ou 7,25).",
   "common.no_results": "Sem resultados — experimente outra pesquisa.",
   "common.save": "Guardar",
   "common.show_less": "Menos",
