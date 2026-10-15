@@ -3317,6 +3317,7 @@
   "settings.enrol.claim_failed": "Não foi possível obter um código para reivindicar a loja — verifique a ligação à internet e tente novamente.",
   "settings.enrol.not_configured": "Esta caixa não tem nenhum endereço da nuvem configurado, por isso não se pode registar. A caixa continua a funcionar sem ligação; peça a quem a instalou que configure um.",
   "settings.enrol.busy": "Ainda está em curso outra tentativa de registo — aguarde um momento e tente novamente.",
+  "settings.enrol.name_required": "Dê primeiro um nome à sua loja: a caixa só se regista na nuvem quando a loja tiver um nome real.",
   "basket.gift_voucher.for": "Para %s",
   "catalog.item_type": "Tipo",
   "catalog.item_type.gift_voucher": "Vale-oferta",
