@@ -196,6 +196,8 @@
   "catalog.barcode.force_plain": "Código simples (ignorar peso/preço)",
   "catalog.barcode.force_plain_hint": "Tratar este código como um código de barras de produto simples, mesmo que os códigos de barras com peso/preço estejam ativados nesta loja.",
   "catalog.barcode.remove_confirm": "Remover este código de barras?",
+  "catalog.barcode.variant_inactive": "Esta variante está desativada. Marque Ativo e guarde; depois adicione o código de barras.",
+  "catalog.barcode.variant_inactive_hint": "Desativada: marque Ativo para adicionar um código de barras.",
   "catalog.barcode_backfill.btn": "Gerar códigos de barras a partir do SKU",
   "catalog.barcode_backfill.confirm_btn": "Atribuir estes códigos de barras",
   "catalog.barcode_backfill.eligible_count": "%d artigo(s) podem receber um código de barras derivado do respetivo SKU.",
