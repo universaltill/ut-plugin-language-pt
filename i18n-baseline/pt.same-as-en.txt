@@ -27,6 +27,7 @@ catalog.net_quantity.unit.ml
 fiscaldevice.plugin.title
 help.plugins
 import.status.ok
+import.system.change.stock
 inventory.dialog_context
 invoice.total
 journal.col.total
