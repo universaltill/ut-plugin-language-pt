@@ -915,7 +915,7 @@
   "import.status.ok": "ok",
   "import.status.seeded_gift_voucher_removed": "O artigo de vale-oferta «%s» criado na configuração foi removido, porque esta importação trouxe o seu próprio.",
   "import.status.sku_already_in_catalog": "SKU já existe no catálogo",
-  "import.status.sku_reused_in_file": "número de artigo \"%s\" repetido neste ficheiro — importado com um novo número",
+  "import.status.sku_reused_renumbered": "número de artigo \"%s\" repetido neste ficheiro — novo número \"%s\"",
   "import.status.source_deleted": "removido no ficheiro de origem",
   "import.status.stock_location_failed": "stock não importado: local predefinido indisponível",
   "import.status.stock_movement_failed": "stock não importado: não foi possível registar o movimento de stock",
