@@ -2483,6 +2483,7 @@
   "settings.update.android.pin_needed": "Introduza o PIN de gerente para instalar esta atualização",
   "settings.update.android.progress": "A transferir a atualização… %d%%",
   "settings.update.android.retry": "A atualização falhou — toque para tentar novamente",
+  "settings.update.android.install_again": "Não vê o instalador do Android? Toque para o abrir novamente",
   "settings.update.apply_confirm": "Transferir e instalar a atualização agora? A caixa reinicia quando terminar.",
   "settings.update.auto_blocked": "As atualizações automáticas estão ativadas, mas esta caixa não as consegue instalar sozinha: a caixa não tem permissão de escrita na pasta de instalação. Se foi instalada a partir do pacote .deb, reinstale o pacote mais recente — isso corrige a pasta; caso contrário, dê ao utilizador da caixa permissão de escrita nessa pasta. Depois, volte a procurar atualizações.",
   "settings.update.auto_enable": "Atualizar automaticamente",
