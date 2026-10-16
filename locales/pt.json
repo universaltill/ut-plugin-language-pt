@@ -3396,5 +3396,11 @@
   "vouchers.top_up.error.amount": "Introduza um valor superior a zero. O saldo de um vale não pode ultrapassar %s.",
   "vouchers.top_up.error.in_sale": "Este vale já está na venda atual.",
   "vouchers.top_up.error.no_item": "Não existe nenhum artigo de vale-oferta ativo. Crie um no catálogo (tipo de artigo: Vale-oferta) e tente novamente.",
-  "pos.toast.voucher_top_up_failed": "Esta venda carrega um vale-oferta que já não aceita carregamentos (anulado, para um artigo específico ou acima do seu limite). Remova a linha de carregamento e verifique o vale."
+  "pos.toast.voucher_top_up_failed": "Esta venda carrega um vale-oferta que já não aceita carregamentos (anulado, para um artigo específico ou acima do seu limite). Remova a linha de carregamento e verifique o vale.",
+  "pos.scan_choice.title": "Este código corresponde a mais do que um elemento. Qual é?",
+  "pos.scan_choice.item": "Artigo",
+  "pos.scan_choice.voucher": "Vale-oferta",
+  "pos.scan_choice.customer": "Cliente",
+  "pos.scan_choice.promo": "Promoção",
+  "pos.scan_choice.receipt": "Talão"
 }
