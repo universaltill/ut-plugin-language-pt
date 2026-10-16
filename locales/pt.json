@@ -3372,5 +3372,22 @@
   "vouchers.adjust.error.primary_unreachable": "Não é possível contactar a caixa principal: as correções são feitas no registo da caixa principal. Tente novamente quando estiver acessível.",
   "vouchers.history.type.adjustment": "Correção",
   "vouchers.history.by": "por %s",
-  "vouchers.adjust.error.primary_unknown": "A caixa principal não confirmou a correção: pode ou não ter sido guardada. Recarregue a página e verifique o histórico antes de tentar novamente."
+  "vouchers.adjust.error.primary_unknown": "A caixa principal não confirmou a correção: pode ou não ter sido guardada. Recarregue a página e verifique o histórico antes de tentar novamente.",
+  "basket.gift_voucher.top_up": "Carregamento",
+  "receipt.vouchers.top_up": "Carregamento de vale-oferta",
+  "receipt.vouchers.new_balance": "Novo saldo %s",
+  "receipt.vouchers.top_up_void": "ANULADO - carregamento retirado",
+  "vouchers.history.type.top_up": "Carregamento",
+  "vouchers.history.type.top_up_void": "Carregamento anulado",
+  "vouchers.top_up.title": "Carregar",
+  "vouchers.top_up.intro": "Adicione saldo a este vale como uma venda: o valor entra na venda atual no ecrã de venda e o vale é creditado quando o cliente paga.",
+  "vouchers.top_up.amount": "Valor a adicionar",
+  "vouchers.top_up.add": "Adicionar à venda",
+  "vouchers.top_up.not_void": "Um vale anulado não pode ser carregado.",
+  "vouchers.top_up.not_single": "Um vale para um artigo específico não pode ser carregado: o seu valor já foi tributado quando foi vendido.",
+  "vouchers.top_up.replica_note": "Os carregamentos são feitos na caixa principal. Abra este vale lá para lhe adicionar saldo.",
+  "vouchers.top_up.error.amount": "Introduza um valor superior a zero. O saldo de um vale não pode ultrapassar %s.",
+  "vouchers.top_up.error.in_sale": "Este vale já está na venda atual.",
+  "vouchers.top_up.error.no_item": "Não existe nenhum artigo de vale-oferta ativo. Crie um no catálogo (tipo de artigo: Vale-oferta) e tente novamente.",
+  "pos.toast.voucher_top_up_failed": "Esta venda carrega um vale-oferta que já não aceita carregamentos (anulado, para um artigo específico ou acima do seu limite). Remova a linha de carregamento e verifique o vale."
 }
