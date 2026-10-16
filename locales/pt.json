@@ -2925,6 +2925,8 @@
   "tills.network_key.no_tls": "A ligação segura (TLS) desta caixa está desligada, por isso não há nenhuma chave de rede para alterar.",
   "tills.link_help": "A ligação, a versão e a fila atualizam-se automaticamente a cada 10 segundos.",
   "tills.discovery.ambient.banner": "Foi encontrada uma caixa principal nesta rede: %s. Ligar esta caixa a ela?",
+  "tills.discovery.ambient.has_sales_confirm": "Substituir as vendas e os dados desta caixa",
+  "tills.discovery.ambient.has_sales_warning": "Esta caixa já tem vendas. Ligá-la substitui tudo o que contém — vendas, produtos e definições — pela cópia da caixa principal. As vendas desta caixa não são enviadas para a caixa principal; ficam apenas numa cópia na pasta de cópias de segurança desta caixa.",
   "tills.discovery.ambient.dismiss": "Não voltar a perguntar nesta caixa",
   "tills.discovery.ambient.link": "Ligar esta caixa",
   "tills.discovery.denied": "O Universal Till não pode usar a rede local neste dispositivo. Se acabou de lhe ser pedido, permita-o e procure novamente; caso contrário, ative “Rede local” para o Universal Till nas Definições do dispositivo, ou introduza antes um código de emparelhamento.",
