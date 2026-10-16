@@ -2478,7 +2478,7 @@
   "settings.tills.name_label": "Nome da caixa",
   "settings.tills.open": "Gerir caixas / emparelhar uma nova",
   "settings.tills.register_help": "Os pagamentos em numerário (p. ex. o reembolso de um depósito) são registados no turno aberto deste posto de caixa. Se a sua loja tiver mais de um posto de caixa, defina isto antes de registar pagamentos.",
-  "settings.tills.register_label": "Posto de caixa desta caixa",
+  "settings.tills.register_label": "Posto de caixa para pagamentos",
   "settings.tills.register_unset": "Não definido — escolha um posto de caixa",
   "settings.title": "Definições do sistema",
   "settings.tse.awaiting_ready": "A configuração da TSE está em curso — o seu serviço de assinatura está a ser preparado. Esta caixa obtém o resultado automaticamente.",
@@ -3499,5 +3499,8 @@
   "pos.scan_choice.voucher": "Vale-oferta",
   "pos.scan_choice.customer": "Cliente",
   "pos.scan_choice.promo": "Promoção",
-  "pos.scan_choice.receipt": "Talão"
+  "pos.scan_choice.receipt": "Talão",
+  "settings.tills.role_label": "Esta caixa",
+  "settings.tills.role_main": "Caixa principal",
+  "settings.tills.main_till_addr": "Caixa principal: %s"
 }
