@@ -3502,5 +3502,11 @@
   "pos.scan_choice.receipt": "Talão",
   "settings.tills.role_label": "Esta caixa",
   "settings.tills.role_main": "Caixa principal",
-  "settings.tills.main_till_addr": "Caixa principal: %s"
+  "settings.tills.main_till_addr": "Caixa principal: %s",
+  "status.shop_currency_mismatch.label": "Moeda diferente da loja",
+  "status.shop_currency_mismatch.hint": "Esta caixa vende em %[1]s; a sua loja no my. usa %[2]s. Altere a moeda da caixa nas Definições quando for seguro para os seus registos. As vendas continuam.",
+  "import.file_plugin.detected": "%s reconheceu este ficheiro. Verifique a pré-visualização abaixo — nada é guardado até carregar em «Importar».",
+  "import.file_plugin.too_large": "Este ficheiro tem mais de 32 MB, o máximo que um plugin de importação consegue ler. Divida-o em ficheiros mais pequenos e importe-os um de cada vez.",
+  "import.file_plugin.upload_again": "Para tentar de novo, escolha o ficheiro e carregue novamente em «Pré-visualizar».",
+  "import.file_plugin.use_standard": "Usar antes o importador padrão"
 }
