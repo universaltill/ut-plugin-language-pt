@@ -2066,6 +2066,8 @@
   "reports.zpaper.vouchers_adjusted": "Ajustados (%d)",
   "reports.zpaper.stornos_note": "talões anulados, sem receita",
   "reports.zpaper.voided": "Anulados (%d)",
+  "reports.zpaper.cleared_title": "CESTOS ESVAZIADOS SEM PAGAMENTO",
+  "reports.zpaper.cleared_baskets": "Esvaziados (%d)",
   "reports.zpaper.cash.title": "CONCILIAÇÃO DE CAIXA",
   "reports.zpaper.cash.opening_float": "Fundo inicial",
   "reports.zpaper.cash.cash_sales": "Vendas em numerário",
