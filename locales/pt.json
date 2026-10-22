@@ -2350,6 +2350,7 @@
   "settings.enrol.pair_busy": "A associar…",
   "settings.enrol.pair_failed": "Falha ao associar — verifique o código e a ligação à internet, e tente novamente",
   "settings.enrol.pair_help": "Tem um código de associação da conta na nuvem da sua loja («Adicionar ou associar novamente uma caixa»)? Introduza-o aqui para adicionar esta caixa a essa loja, ou para reconectar uma caixa que foi removida ou precisa de ser associada novamente. Isto substitui apenas a ligação à nuvem desta caixa; as suas vendas, produtos e definições mantêm-se.",
+  "settings.enrol.pair_identity_pinned": "A ligação à nuvem desta caixa foi definida por quem a instalou, por isso não pode ser associada aqui. Peça-lhe que remova essa definição e tente novamente.",
   "settings.enrol.pair_placeholder": "Código de associação",
   "settings.enrol.pair_replica_no_store": "Esta caixa ainda não recebeu a sua loja da caixa principal, por isso o código não foi utilizado. Espere que a caixa principal sincronize (ou verifique se está acessível) e tente novamente.",
   "settings.enrol.pair_store_mismatch": "Este código pertence a uma loja diferente da caixa principal desta caixa. Peça um código de associação para esta loja e tente novamente.",
