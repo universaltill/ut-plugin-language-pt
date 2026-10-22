@@ -2614,6 +2614,7 @@
   "setup.cloud.title": "A sua loja",
   "setup.cloud.hint": "Estes dados vêm da sua loja em my.universaltill.com. Seguem-se algumas perguntas a que só esta caixa pode responder.",
   "setup.cloud.shop_name": "Nome da loja",
+  "setup.cloud.shop_type": "Tipo de loja",
   "setup.cloud.shop_country": "País",
   "setup.cloud.shop_currency": "Moeda",
   "setup.cloud.continue": "Continuar",
