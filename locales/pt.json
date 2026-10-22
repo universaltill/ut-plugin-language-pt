@@ -679,6 +679,7 @@
   "elevation.summary.display_mode": "Definir o perfil de dispositivo desta caixa como %s.",
   "elevation.summary.enrol_claim_code": "Gerar um novo código de associação da loja e ligação QR.",
   "elevation.summary.enrol_now": "Tentar registar agora esta caixa no marketplace.",
+  "elevation.summary.enrol_terms": "Aceitar os termos do serviço na nuvem da Universal Till para esta loja.",
   "elevation.summary.enrol_pair": "Associar esta caixa a uma loja na nuvem, substituindo a sua ligação à nuvem atual.",
   "elevation.summary.eod_range_export": "Exportar um relatório Z de %s – %s.",
   "elevation.summary.eod_reprint": "Reimprimir o relatório de fecho do dia de %s.",
@@ -3589,5 +3590,10 @@
   "settings.enrol.terms.label": "Aceito os termos do serviço na nuvem da Universal Till (versão %s).",
   "settings.enrol.terms.link": "Ler os termos",
   "settings.enrol.terms.accepted": "Termos aceites: versão %s, %s",
-  "settings.enrol.terms_required": "Aceite os termos do serviço na nuvem da Universal Till para registar esta caixa."
+  "settings.enrol.terms_required": "Aceite os termos do serviço na nuvem da Universal Till para registar esta caixa.",
+  "settings.enrol.terms.accept_btn": "Aceitar os termos",
+  "settings.enrol.terms.send_btn": "Enviar para a nuvem",
+  "settings.enrol.terms.unsent": "A sua aceitação está guardada nesta caixa, mas ainda não chegou à nuvem.",
+  "settings.enrol.terms.send_failed": "Não foi possível contactar a nuvem. A sua aceitação está guardada nesta caixa; tente novamente.",
+  "settings.enrol.terms.accept_required": "Marque a caixa para aceitar os termos do serviço na nuvem da Universal Till."
 }
