@@ -3673,5 +3673,11 @@
   "channel_orders.detail.refunded_total": "Reembolsado até agora",
   "channel_orders.detail.actions_note": "Aceitar, embalar e enviar uma encomenda faz-se, por agora, em my.universaltill.com. Esta página mostra o que foi registado nesta caixa.",
   "channel_orders.error.load_failed": "Não foi possível carregar as encomendas online.",
-  "channel_orders.error.not_found": "Essa encomenda online não foi encontrada."
+  "channel_orders.error.not_found": "Essa encomenda online não foi encontrada.",
+  "desktop.startup_failed.title": "Não foi possível iniciar o Universal Till",
+  "desktop.startup_failed.body": "O programa de caixa parou logo depois de ser aberto, por isso ainda não há nada para mostrar.",
+  "desktop.startup_failed.step_retry": "Feche esta janela e abra o Universal Till novamente.",
+  "desktop.startup_failed.step_reinstall": "Se continuar sem iniciar, reinstale o Universal Till com o instalador mais recente. A reinstalação mantém as suas vendas, artigos e definições.",
+  "desktop.startup_failed.logs": "Se precisar de ajuda, envie os ficheiros desktop.log e till.log desta pasta:",
+  "desktop.startup_failed.detail": "Detalhe técnico"
 }
