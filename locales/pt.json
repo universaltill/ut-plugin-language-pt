@@ -2117,6 +2117,8 @@
   "reports.zpaper.cash.calculated": "Calculado",
   "reports.zpaper.cash.new_float": "Novo fundo",
   "reports.zpaper.receipts_range": "Talões %s - %s",
+  "reports.zpaper.restored_receipts": "Restaurado a partir de uma cópia de segurança: os recibos continuam em %s (último na cópia: %s)",
+  "reports.zpaper.restored_z": "Os números Z continuam em %d (último na cópia: %d)",
   "scan.camera.button": "Ler com a câmara",
   "scan.camera.camera_busy": "A câmara está a ser usada por outra aplicação. Feche a outra aplicação e tente novamente.",
   "scan.camera.camera_error": "Câmara indisponível",
