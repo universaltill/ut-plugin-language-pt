@@ -2880,6 +2880,7 @@
   "sync.quarantine_none": "Nenhuma entrada em quarentena — todas as vendas de todas as caixas foram aplicadas sem problemas.",
   "sync.quarantine_open": "Ver entradas em quarentena",
   "sync.quarantine_reason.duplicate_voucher_redemption": "O mesmo vale foi resgatado duas vezes numa venda na repetição",
+  "sync.quarantine_reason.single_purpose_voucher_top_up": "Carregamento de um vale para um artigo específico recusado na repetição",
   "sync.quarantine_reason.unknown_line_reference": "Produto ou variante desconhecido numa linha de venda na repetição",
   "sync.quarantine_reason.unknown_sale_reference": "Operador, cliente, posto de caixa ou mesa desconhecido na repetição",
   "sync.quarantine_reason.unknown_voucher_redemption": "Vale desconhecido na repetição do resgate",
