@@ -2684,6 +2684,8 @@
   "setup.cloud.not_mine": "Esta não é a minha loja",
   "setup.cloud.pair_incomplete": "O emparelhamento com a sua loja online não foi concluído, por isso esta caixa ainda não está a sincronizar. O código foi utilizado. Crie um novo em my.universaltill.com e emparelhe novamente em Definições, Caixas.",
   "setup.cloud.syncing": "A sincronizar a sua loja",
+  "setup.cloud.syncing_title": "Os produtos da sua loja estão a caminho",
+  "setup.cloud.syncing_body": "Esta caixa aderiu à sua loja e está a receber os seus produtos. Demora um momento; o ecrã de venda abre sozinho quando tiverem chegado. Também pode começar a vender agora.",
   "setup.cloud.error.invalid_code": "Esse código não está correto ou expirou. Crie um código novo em my.universaltill.com (Caixas, Adicionar uma caixa) e tente novamente.",
   "setup.cloud.error.too_many": "Demasiadas tentativas. Aguarde alguns minutos e tente novamente.",
   "setup.cloud.error.no_network": "Não é possível aceder à nuvem. Verifique a ligação à internet desta caixa ou configure antes uma loja nova.",
