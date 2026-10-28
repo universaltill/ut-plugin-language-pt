@@ -1708,6 +1708,7 @@
   "pos.error.sale_not_found": "Venda não encontrada",
   "pos.error.sale_status_transition": "Esta venda não pode passar para esse estado — uma venda concluída só pode ser anulada.",
   "pos.error.server": "Ocorreu um erro. Tente novamente.",
+  "pos.error.void_voucher_additional_till": "Esta venda vendeu ou carregou um vale de oferta, por isso não pode ser anulada numa caixa adicional: a caixa principal manteria o valor do vale. Não foi alterado nada.",
   "pos.error.void_voucher_redeemed": "Esta venda incluiu um vale que já foi utilizado — não pode ser anulada",
   "pos.error.order_type_off": "A opção para levar está desligada nesta loja — não vende comida nem bebida para consumo no local.",
   "pos.toast.customer_linked": "Cliente %s associado",
