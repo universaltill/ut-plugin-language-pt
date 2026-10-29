@@ -61,7 +61,7 @@
   "auth.clear": "Limpar",
   "auth.enter_pin": "Introduza o seu PIN",
   "auth.error.invalid": "PIN não reconhecido",
-  "auth.error.locked": "Demasiadas tentativas — aguarde 30 segundos",
+  "auth.error.locked": "Demasiadas tentativas — tente novamente daqui a pouco",
   "auth.error.pin_format": "O PIN deve ter 4–8 dígitos",
   "auth.error.pin_mismatch": "Os PIN não coincidem",
   "auth.error.unavailable": "Lamentamos — de momento a caixa não consegue aceder aos seus próprios dados, pelo que não é possível iniciar sessão. Feche completamente a aplicação e volte a abri-la. Se não resolver, comunique o problema para que o possamos analisar.",
