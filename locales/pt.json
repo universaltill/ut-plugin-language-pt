@@ -982,7 +982,7 @@
   "inventory.days_left": "Dias restantes",
   "inventory.days_left_hint": "Dias previstos até este artigo esgotar, com base nas vendas dos últimos 28 dias",
   "inventory.dialog_context": "{item} — {location}",
-  "inventory.empty": "Ainda não há stock registado",
+  "inventory.empty": "Ainda não há artigos com controlo de stock. Adicione artigos no Catálogo ou desmarque aí a caixa «Sem controlo de stock» de um artigo.",
   "inventory.item_placeholder": "Escreva o nome do artigo ou o SKU",
   "inventory.location": "Local",
   "inventory.low_stock": "Stock baixo",
