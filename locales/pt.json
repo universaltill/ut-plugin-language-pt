@@ -3743,5 +3743,8 @@
   "channel_orders.detail.refunded_total": "Reembolsado até agora",
   "channel_orders.detail.actions_note": "Aceitar, embalar e enviar uma encomenda faz-se, por agora, em my.universaltill.com. Esta página mostra o que foi registado nesta caixa.",
   "channel_orders.error.load_failed": "Não foi possível carregar as encomendas online.",
-  "channel_orders.error.not_found": "Essa encomenda online não foi encontrada."
+  "channel_orders.error.not_found": "Essa encomenda online não foi encontrada.",
+  "sync.link.rejoin": "Juntar-se de novo à caixa principal",
+  "sync.link.rejoin_hint": "Esta caixa já não usa a sua antiga ligação à caixa principal, por exemplo porque os seus dados foram restaurados num dispositivo novo. Continua a vender; junte-a de novo à caixa principal na página Caixas.",
+  "tills.rejoin_needed_help": "Na caixa principal, crie um código de adesão; depois use «Juntar-se a uma loja existente» abaixo e dê um nome novo a esta caixa. As vendas que ainda não chegaram à caixa principal são enviadas primeiro. Não revogue a caixa a partir da qual foi restaurada se ela ainda estiver em uso."
 }
