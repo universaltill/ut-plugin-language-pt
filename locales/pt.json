@@ -3746,5 +3746,8 @@
   "channel_orders.error.not_found": "Essa encomenda online não foi encontrada.",
   "sync.link.rejoin": "Juntar-se de novo à caixa principal",
   "sync.link.rejoin_hint": "Esta caixa já não usa a sua antiga ligação à caixa principal, por exemplo porque os seus dados foram restaurados num dispositivo novo. Continua a vender; junte-a de novo à caixa principal na página Caixas.",
-  "tills.rejoin_needed_help": "Na caixa principal, crie um código de adesão; depois use «Juntar-se a uma loja existente» abaixo e dê um nome novo a esta caixa. As vendas que ainda não chegaram à caixa principal são enviadas primeiro. Não revogue a caixa a partir da qual foi restaurada se ela ainda estiver em uso."
+  "tills.rejoin_needed_help": "Na caixa principal, crie um código de adesão; depois use «Juntar-se a uma loja existente» abaixo e dê um nome novo a esta caixa. As vendas que ainda não chegaram à caixa principal são enviadas primeiro. Não revogue a caixa a partir da qual foi restaurada se ela ainda estiver em uso.",
+  "plugins.install.error.pair_again": "A ligação desta caixa à sua loja já não é válida. Associe-a novamente à sua loja (Definições → Registo da caixa → Associar a uma loja) e tente novamente.",
+  "plugins.install.error.pair_required": "Este plugin só pode ser instalado numa caixa associada à sua loja. Associe primeiro esta caixa (Definições → Registo da caixa → Associar a uma loja) e tente novamente.",
+  "plugins.install.error.till_removed": "Esta caixa foi removida da sua loja, por isso não pode transferir plugins. Associe-a novamente à sua loja (Definições → Registo da caixa → Associar a uma loja) para instalar plugins."
 }
