@@ -2140,7 +2140,7 @@
   "selforder.counter.place_order": "Fazer pedido",
   "selforder.counter.title": "Pagar ao balcão",
   "selforder.decrease": "Diminuir quantidade",
-  "selforder.exit": "Sair para as definições da caixa (PIN obrigatório)",
+  "selforder.exit": "Sair do modo quiosque (PIN obrigatório)",
   "selforder.increase": "Aumentar quantidade",
   "selforder.no_items": "Nenhum artigo encontrado.",
   "selforder.order_type.dine_in": "Comer aqui",
