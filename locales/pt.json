@@ -3836,5 +3836,9 @@
   "settings.move.refused_source_unavailable": "De momento, não é possível mover a partir da loja desta caixa. Nada mudou.",
   "settings.move.refused_pending": "Esta caixa já tem uma mudança à espera de aprovação. Abra-a a partir do aviso ou espere que expire.",
   "settings.move.refused_declined_recently": "Esta caixa rejeitou recentemente uma mudança dessa conta. Tente novamente amanhã.",
-  "settings.move.refused_rate_limited": "Demasiados pedidos de mudança para esta caixa. Tente mais tarde."
+  "settings.move.refused_rate_limited": "Demasiados pedidos de mudança para esta caixa. Tente mais tarde.",
+  "settings.update.android.authorized": "Atualização aprovada",
+  "settings.update.error.busy": "Já está a ser instalada uma atualização. Aguarde que a caixa reinicie.",
+  "settings.update.error.verify_failed": "A atualização transferida não passou na verificação de segurança e não foi instalada. Tente novamente mais tarde.",
+  "settings.update.error.failed": "Não foi possível instalar a atualização. Tente novamente mais tarde."
 }
