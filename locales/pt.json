@@ -2379,6 +2379,8 @@
   "settings.display.window_mode_fullscreen": "Ecrã inteiro",
   "settings.display.window_mode_kiosk": "Quiosque",
   "settings.display.window_mode_kiosk_appliance": "Esta caixa é um equipamento de quiosque dedicado: o ecrã de quiosque é controlado pela própria caixa, sem nenhum ambiente de trabalho do SO por trás. Para sair do modo de quiosque, mude aqui o modo de janela — «Sair para a janela do SO» não se aplica nesta caixa.",
+  "settings.display.window_mode_kiosk_help": "Ecrã inteiro e Quiosque funcionam da mesma forma aqui: a caixa ocupa todo o ecrã e «Sair para o SO» devolve o ambiente de trabalho. Quiosque não é o perfil de dispositivo «Quiosque de autopedido».",
+  "settings.display.window_mode_kiosk_help_appliance": "Só o Quiosque mantém este ecrã ligado. Ecrã inteiro, Maximizada e Janela normal desligam-no. Quiosque não é o perfil de dispositivo «Quiosque de autopedido».",
   "settings.display.window_mode_label": "Modo de janela",
   "settings.display.window_mode_maximized": "Maximizada",
   "settings.display.window_mode_no_shell": "Os modos de ecrã inteiro e de quiosque ficam desligados até a aplicação de ambiente de trabalho Universal Till estar a correr nesta caixa — é essa aplicação que controla a janela e que permite sair novamente do ecrã inteiro.",
