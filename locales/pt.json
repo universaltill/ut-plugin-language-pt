@@ -3189,7 +3189,7 @@
   "tills.promote_adopt_failed": "Vendas copiadas que não puderam ser adicionadas e ficam na cópia: %d (consulte a lista de problemas).",
   "tills.promote_adopt_voided": "Vendas desta caixa marcadas como anuladas, como na cópia: %d.",
   "tills.promote_adopt_resumes": "A incorporação da cópia foi interrompida; fica guardada e termina sozinha dentro de poucos minutos.",
-  "tills.promote_outside_z": "Vendas anteriores ao último fecho da caixa principal anterior que podem não constar de nenhum relatório Z: %d. Verifique-as em Relatórios.",
+  "tills.promote_outside_z": "Vendas anteriores ao último fecho da antiga caixa principal que podem não constar de nenhum relatório Z: %d. Verifique-as em Relatórios.",
   "tills.promoted": "Promovida — esta caixa é agora independente. Emparelhe as outras caixas a partir desta página.",
   "tills.qr_expiry": "Utilização única · expira em 10 minutos",
   "tills.qr_hint": "Ou leia este código QR com a nova caixa",
