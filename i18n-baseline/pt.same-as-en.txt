@@ -59,6 +59,7 @@ receipt.paper.total
 recovery.safe_mode_col_total
 reports.eod.article_print_cap.label
 reports.eod.period_range
+reports.online_channels.currency_total
 reports.seasonal_lunar_badge
 reports.shrinkage_total
 settings.display.effects_reason_pi
