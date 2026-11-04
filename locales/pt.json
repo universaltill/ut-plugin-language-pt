@@ -564,6 +564,7 @@
   "common.error.invalid_upload": "Carregamento inválido",
   "common.error.manager_or_admin_required": "É necessário um gerente ou administrador",
   "common.error.network": "Problema de ligação. Verifique a rede e tente de novo.",
+  "common.error.outcome_unknown": "A ligação caiu antes de a caixa responder, por isso isto pode ou não ter sido feito. Verifique antes de tentar de novo.",
   "common.error.server": "Ocorreu um erro. Tente de novo.",
   "common.loading": "A carregar…",
   "common.money.invalid": "Introduza o valor em algarismos, com um ponto ou uma vírgula antes das casas decimais (por exemplo 3.50 ou 3,50).",
